@@ -1,5 +1,5 @@
 {
-  "content": "exampleSite/content",
+  "content": "exampleSite/content/english",
   "media": "exampleSite/assets/images",
   "public": "exampleSite/static",
   "configs": [
@@ -9,6 +9,5 @@
     "exampleSite/i18n"
   ],
   "custom-commit": false,
-  "arrangement": [],
-  "code": "layouts"
+  "arrangement": []
 }
